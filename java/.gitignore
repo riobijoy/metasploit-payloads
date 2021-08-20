@@ -9,7 +9,7 @@
 */*/bin
 */*/target
 *.iml
-*.swp
+*.swP
 *.orig
 *.rej
 *~
